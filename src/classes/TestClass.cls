@@ -7,4 +7,8 @@ public with sharing class TestClass {
         System.debug('Log 1');
     }
 
+    static void firstMethod1(){
+        System.debug('Log 2');
+    }
+
 }
