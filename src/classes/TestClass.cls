@@ -14,4 +14,8 @@ public with sharing class TestClass {
         System.debug('Log 3');
     }
 
+    static void firstMethod3(){
+        System.debug('Log 4');
+    }
+
 }
