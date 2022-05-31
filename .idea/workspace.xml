@@ -37,7 +37,7 @@
                 <ConnectionWorkspaceSettings>
                   <option name="buildSuccessDatesBySourceRootRelativePath">
                     <map>
-                      <entry key="CLASSES/TESTCLASS.CLS" value="1653990701545" />
+                      <entry key="CLASSES/TESTCLASS.CLS" value="1653988460000" />
                     </map>
                   </option>
                 </ConnectionWorkspaceSettings>
@@ -49,15 +49,12 @@
     </option>
   </component>
   <component name="ProjectId" id="29vKxGlhxve4I3EjgMP3wOUmAWY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="1" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
